@@ -2,7 +2,7 @@
   "name": "food_order_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://aditisharma27.github.io/Food_order_app",
+  "homepage": "http://aditisharma27.github.io/food_order_app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
